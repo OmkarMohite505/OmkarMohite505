@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Meet Your Doctor**
 
-- 🌱 I’m currently learning **Spring, .NET**
+- 🌱 I’m working on **Spring, .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmkarMohite505?tab=repositories](https://github.com/OmkarMohite505?tab=repositories)
 
