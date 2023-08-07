@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omkar Mohite</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarmohite505&label=Profile%20views&color=0e75b6&style=flat" alt="omkarmohite505" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarmohite505" alt="omkarmohite505" /></a> </p>
 
-- 🔭 I’m currently working on **Meet Your Doctor**
+- 🔭 I’m currently working on **Reatail Domain Project**
 
-- 🌱 I’m working on **Spring, .NET**
+- 🌱 I’m working on **>NET Core, Angular 14, Azure Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmkarMohite505?tab=repositories](https://github.com/OmkarMohite505?tab=repositories)
 
